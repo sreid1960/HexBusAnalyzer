@@ -1,3 +1,10 @@
+/*
+Developed from the Saleae Logic SampleAnalyzer by
+Stephen L Reid, Reid Performance Designs
+May 2020
+
+Hexbus Analyzer - for TI CC-40/TI-74/TI-95 Hexbus/Dockbus logic analysis
+*/
 #ifndef HEXBUS_SIMULATION_DATA_GENERATOR
 #define HEXBUS_SIMULATION_DATA_GENERATOR
 
